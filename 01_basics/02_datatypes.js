@@ -30,3 +30,11 @@ let b = 5;
 let result = a * b;
 
 console.log("Multiplication is:", result);
+
+
+let firstName = "Shubh";
+let lastName = "Kumar";
+
+let fullName = firstName + " " + lastName;
+
+console.log("Full Name:", fullName);
