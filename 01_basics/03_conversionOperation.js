@@ -104,17 +104,9 @@ score++
 
 
 
+let a = "25";     // string
+let b = Number(a); // convert to number
 
-
-
-
-
-
-
-
-
-
-
-
+console.log(b + 5);
 
 
