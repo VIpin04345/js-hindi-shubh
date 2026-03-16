@@ -24,3 +24,9 @@ symbol datatypes (unique)
 console.log(typeof undefined);
 
 
+let a = 15;
+let b = 5;
+
+let result = a * b;
+
+console.log("Multiplication is:", result);
