@@ -38,3 +38,12 @@ let lastName = "Kumar";
 let fullName = firstName + " " + lastName;
 
 console.log("Full Name:", fullName);
+
+
+let isStudent = true;
+
+if (isStudent) {
+    console.log("You are a student");
+} else {
+    console.log("You are not a student");
+}
