@@ -31,3 +31,11 @@ let age = 21;
 
 console.log("My name is " + name);
 console.log("My age is " + age);
+
+
+let length = 5;
+let width = 3;
+
+let area = length * width;
+
+console.log("Area of rectangle is:", area);
