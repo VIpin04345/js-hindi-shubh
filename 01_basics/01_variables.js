@@ -24,3 +24,10 @@ let b = 20;
 let sum = a + b;
 
 console.log("Sum is:", sum);
+
+
+let name = "Shubh";
+let age = 21;
+
+console.log("My name is " + name);
+console.log("My age is " + age);
