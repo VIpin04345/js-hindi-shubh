@@ -105,7 +105,11 @@ let str = String(num);
 console.log(str);
 console.log(typeof str);
 
+let value = 1;
 
+let result = Boolean(value);
+
+console.log(result);
 
 
 
