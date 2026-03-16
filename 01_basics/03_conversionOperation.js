@@ -98,7 +98,12 @@ score++
 // console.log(undefined==0);false
 
 
+let num = 100;
 
+let str = String(num);
+
+console.log(str);
+console.log(typeof str);
 
 
 
