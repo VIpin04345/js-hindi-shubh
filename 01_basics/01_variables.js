@@ -17,3 +17,10 @@ console.log(accountpy)
 prefer not to use var
 because of issue in block scope 
 */
+
+
+let a = 10;
+let b = 20;
+let sum = a + b;
+
+console.log("Sum is:", sum);
