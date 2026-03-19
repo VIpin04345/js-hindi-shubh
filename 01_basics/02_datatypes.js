@@ -47,3 +47,12 @@ if (isStudent) {
 } else {
     console.log("You are not a student");
 }
+
+
+
+let a = 15;
+let b = 5;
+
+let result = a * b;
+
+console.log("Multiplication is:", result);
